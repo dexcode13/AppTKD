@@ -1,0 +1,4 @@
+[04-Oct-2017 21:23:13 UTC] PHP Fatal error:  Call to undefined method ComprobantesData::getAllCorte() in /home/consultor17/public_html/AppViatics.4.0/core/app/view/reporte-comprobaciones.php on line 54
+[04-Oct-2017 21:23:48 UTC] PHP Fatal error:  Call to undefined method ComprobantesData::getAllCorte() in /home/consultor17/public_html/AppViatics.4.0/core/app/view/reporte-comprobaciones.php on line 54
+[04-Oct-2017 21:23:49 UTC] PHP Fatal error:  Call to undefined method ComprobantesData::getAllCorte() in /home/consultor17/public_html/AppViatics.4.0/core/app/view/reporte-comprobaciones.php on line 54
+[04-Oct-2017 21:24:05 UTC] PHP Fatal error:  Call to undefined method ComprobantesData::getAllCorte() in /home/consultor17/public_html/AppViatics.4.0/core/app/view/reporte-comprobaciones.php on line 54
